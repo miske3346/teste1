@@ -17,6 +17,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+/* mohamed elemine*/
+
 Route::get('about', function () {
     return 'welcome to about page';
 });
